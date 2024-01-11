@@ -18,11 +18,11 @@ Object detection in remote sensing images (RSIs) remains a challenging task due 
 
 # Citation
 If you find this work is useful, please kindly cite:
-'''
+```
 @ARTICLE{10387417,
   author={Feng, Shiyang and Wang, Bin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={PSD-SQ: Point Set Decoding Based on Semantic Query for Object Detection in Remote Sensing Images}, 
   year={2024},
   doi={10.1109/TGRS.2024.3352011}}
-'''
+```
