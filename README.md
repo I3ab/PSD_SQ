@@ -24,5 +24,7 @@ If you find this work is useful, please kindly cite:
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={PSD-SQ: Point Set Decoding Based on Semantic Query for Object Detection in Remote Sensing Images}, 
   year={2024},
+  volume={62},
+  pages={1-12},
   doi={10.1109/TGRS.2024.3352011}}
 ```
